@@ -36,3 +36,9 @@ To upload a CSV file with transaction reports (please note code reads auto-gener
 ```
 python3 main.py --upload test_account data_march2017 uploads/data.csv
 ```
+
+# TODO
+- implement '--reports' command with pandas DataFrames (will replace csv library)
+- reset pin option
+- add '--archive' command that archives all transaction data with a certain account
+- 
