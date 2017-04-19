@@ -1,2 +1,2 @@
 # Mini_Bank
-Bank project to better familiarize myself with ORM technologies. I used peewee ORM has it's lightweight and simple.
+Mini Bank project to better familiarize myself with PostgreSQL and Object Relational Mapping (ORM) technologies along. I used peewee ORM as it's lightweight and simple. 
