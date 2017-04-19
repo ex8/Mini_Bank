@@ -5,9 +5,10 @@ import csv as xl
 
 class BankAccount(object):
     """
-    Check current balance of given account
+    Check pin of given account
 
     :param name - account name to check
+    :param pin_input - pin to check
     """
     def check_pin(self, name, pin_input):
         try:
