@@ -2,9 +2,9 @@ import peewee, datetime
 
 # PostgreSQL database configuration
 db = peewee.PostgresqlDatabase(
-    'bank',
-    user='bankuser',
-    password='cheese123',
+    'DB_NAME',
+    user='DB_USER',
+    password='DB_PASSWORD',
     host='localhost'
     )
 
