@@ -1,5 +1,5 @@
 # Mini_Bank
-Mini Bank project to better familiarize myself with PostgreSQL and Object Relational Mapping (ORM) technologies along. I used peewee ORM as it's lightweight and simple. 
+Mini Bank project to better familiarize myself with PostgreSQL and Object Relational Mapping (ORM) technologies. I used peewee ORM as it's lightweight and simple. 
 
 # Requirements
 Python 3+ (I am using Python 3.4 when I developed this)
